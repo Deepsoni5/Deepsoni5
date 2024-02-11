@@ -1,1 +1,1 @@
-<a href="https://app.daily.dev/deepsoni_5"><img src="https://api.daily.dev/devcards/6c4bd3fbac614fde89013b0cc940f426.png?r=xco" width="400" alt="Deep Soni's Dev Card"/></a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cf2ee39c-7c18-4216-900f-17f0120b5b63" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
